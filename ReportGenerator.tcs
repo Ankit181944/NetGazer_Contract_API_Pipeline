@@ -1,0 +1,7 @@
+jumpToNode "/Execution/ExecutionLists/NetGazer Contract Testing API -  Suite"
+
+task "Print Report ... ExecutionEntries with ActualLog" 
+
+C:\\Users\\d863789\\Desktop\\TOSCA_POC_Output\\ExecutionReport.pdf
+
+exit

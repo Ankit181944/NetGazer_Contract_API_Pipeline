@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\TCShell.exe" -workspace "C:\Tosca_Projects\Tosca_Workspaces\NetGazer\NetGazer.tws" -login "" "" "C:\Tosca_Projects\Tosca_Workspaces\NetGazer\ReportGenerator.tcs"
